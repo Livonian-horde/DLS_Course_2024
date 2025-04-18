@@ -19,7 +19,7 @@ Welcome to the repository with my solutions to problems from the courses organiz
 
 1. Just clone the repo:
    ```bash
-   git clone https://github.com/lpestov/DeepLearningSchool.git
+   git clone https://github.com//Livonian-horde/DLS_Course_2024.git
 
 ## Description
 
@@ -32,7 +32,7 @@ In this repository you would find:
 ## Usefull Links
 
 - [ Official GitHub repo of Deep Learning School](https://github.com/DLSchool)
-- [ Official page of Deep Learning School MPTI](https://dlschool.org)
+- [ Official page of Deep Learning School MIPT](https://dlschool.org)
 
 ##  LICENSE
 
